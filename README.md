@@ -5,4 +5,4 @@ A python code written in kivy framework language that allows the Requests librar
 
 > python framework
 
-In order for this app to work you have to install kivy library and run it.
+In order for this app to work you have to install kivy framework library and run it.
