@@ -9,6 +9,3 @@ In order for this app to work you have to install kivy framework library and run
 ```
 pip install requests
 ```
-```
-pip install kivy
-```
