@@ -6,3 +6,9 @@ A python code written in kivy framework language that allows the Requests librar
 > python framework
 
 In order for this app to work you have to install kivy framework library and run it.
+```
+pip install requests
+```
+```
+pip install kivy
+```
