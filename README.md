@@ -10,5 +10,5 @@ In order for this app to work you have to install kivy framework library and run
 pip install requests
 ```
 
-[!TIP!]
+>[!TIP]
 > Before running the python script, make sure you install the requests packege, after you are done with installations, please find a way to get kivy working on your device, if you're using an Android thwn just download pydroid3 then install the kivy library framework through the app
